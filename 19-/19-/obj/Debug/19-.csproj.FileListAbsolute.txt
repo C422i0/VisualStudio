@@ -1,0 +1,11 @@
+C:\Users\mateus.pbrito\source\repos\19-\19-\bin\Debug\19-.exe.config
+C:\Users\mateus.pbrito\source\repos\19-\19-\bin\Debug\19-.exe
+C:\Users\mateus.pbrito\source\repos\19-\19-\bin\Debug\19-.pdb
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\19-.csproj.AssemblyReference.cache
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\19-.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\_19_.Form1.resources
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\_19_.Properties.Resources.resources
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\19-.csproj.GenerateResource.cache
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\19-.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\19-.exe
+C:\Users\mateus.pbrito\source\repos\19-\19-\obj\Debug\19-.pdb

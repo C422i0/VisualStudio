@@ -1,0 +1,11 @@
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\bin\Debug\Ex 3 Pag2.exe.config
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\bin\Debug\Ex 3 Pag2.exe
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\bin\Debug\Ex 3 Pag2.pdb
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex 3 Pag2.csproj.AssemblyReference.cache
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex 3 Pag2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex_3_Pag2.Form1.resources
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex_3_Pag2.Properties.Resources.resources
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex 3 Pag2.csproj.GenerateResource.cache
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex 3 Pag2.csproj.CoreCompileInputs.cache
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex 3 Pag2.exe
+C:\Users\cassio.rofilho\source\repos\Ex 3 Pag2\Ex 3 Pag2\obj\Debug\Ex 3 Pag2.pdb
